@@ -12,5 +12,5 @@ app.get('*', (req, res) => {
 
 // Khởi động server trên cổng 80
 app.listen(80, () => {
-  console.log('Server is running on http://nhungbui.io.vn');
+  console.log('Server mm is running on http://nhungbui.io.vn');
 });
