@@ -6,7 +6,8 @@
     "concurrently": "^9.1.0"
   },
   "scripts": {
-  "client": "cd client && npm start",
-  "server": "sudo node server.js"
-}
+    "client": "cd client && npm start",
+    "server": "sudo node server.js",
+    "build": "cd client && npm run build"
+  }
 }
