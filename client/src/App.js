@@ -9,7 +9,7 @@ function App() {
         <p>
           This is my code
         </p>
-        <h1>Coan nợn Nguyễn Tứn Hy</h1>
+        <h1>Test push github</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
